@@ -1,0 +1,3 @@
+# Backend — environment & secrets
+.env
+node_modules/

@@ -1,0 +1,21 @@
+.ai-summary {
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.08), rgba(124, 58, 237, 0.08));
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    border-radius: var(--radius);
+    padding: 1rem 1.25rem;
+}
+
+.ai-summary__badge {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--accent-light);
+    margin-bottom: 0.5rem;
+}
+
+.ai-summary__text {
+    font-size: 0.95rem;
+    color: var(--text-primary);
+    line-height: 1.65;
+}

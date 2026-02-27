@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "ProBook Lite 14",
+        "category": "Laptops",
+        "price": 499,
+        "description": "A lightweight 14-inch laptop with 8 GB RAM and 256 GB SSD. Perfect for students and everyday productivity.",
+        "tags": [
+            "budget",
+            "student",
+            "portable",
+            "lightweight"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "TitanX Gaming 16",
+        "category": "Laptops",
+        "price": 1399,
+        "description": "16-inch gaming powerhouse with RTX 4070, 16 GB RAM, and 144 Hz display. Built for competitive gamers.",
+        "tags": [
+            "gaming",
+            "high-performance",
+            "RTX",
+            "large-screen"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "SwiftPhone SE",
+        "category": "Phones",
+        "price": 299,
+        "description": "Compact 6.1-inch smartphone with a great camera, all-day battery, and 128 GB storage.",
+        "tags": [
+            "budget",
+            "compact",
+            "camera",
+            "long-battery"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "SwiftPhone Ultra",
+        "category": "Phones",
+        "price": 1099,
+        "description": "Flagship phone with 6.7-inch AMOLED, 200 MP camera, 12 GB RAM, and 5000 mAh battery.",
+        "tags": [
+            "premium",
+            "flagship",
+            "camera",
+            "AMOLED"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "CloudPad 10",
+        "category": "Tablets",
+        "price": 349,
+        "description": "10-inch tablet ideal for reading, streaming, and light work. Includes stylus support.",
+        "tags": [
+            "tablet",
+            "stylus",
+            "streaming",
+            "portable"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "BassWave Pro Headphones",
+        "category": "Audio",
+        "price": 149,
+        "description": "Over-ear wireless headphones with active noise cancellation, 30-hour battery, and deep bass.",
+        "tags": [
+            "audio",
+            "noise-cancelling",
+            "wireless",
+            "bass"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "PixelWatch Sport",
+        "category": "Wearables",
+        "price": 229,
+        "description": "Fitness-focused smartwatch with heart-rate monitor, GPS, sleep tracking, and 7-day battery.",
+        "tags": [
+            "fitness",
+            "smartwatch",
+            "GPS",
+            "health"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "UltraDesk 27 Monitor",
+        "category": "Monitors",
+        "price": 379,
+        "description": "27-inch 4K IPS monitor with USB-C, 99 % sRGB, and adjustable stand. Great for creators and developers.",
+        "tags": [
+            "4K",
+            "monitor",
+            "USB-C",
+            "creator"
+        ]
+    }
+]
