@@ -1,8 +1,15 @@
 # DiscvrAI — AI-Powered Product Discovery
 
-A full-stack **Product Discovery** application with an AI/LLM-powered natural-language search. Browse a curated electronics catalog, or ask the AI to find exactly what you need — "Show me budget laptops" or "What's good for gaming?"
+## 🚀 Live Demo
 
----
+| Service | URL |
+|--------|------|
+| 🌐 Frontend | https://discvr-ai-platform.vercel.app |
+| 🔌 Backend API | https://discvr-ai-backend.onrender.com |
+| ❤️ Health Check | https://discvr-ai-backend.onrender.com/api/health |
+
+
+A full-stack **Product Discovery** application with an AI/LLM-powered natural-language search. Browse a curated electronics catalog, or ask the AI to find exactly what you need — "Show me budget laptops" or "What's good for gaming?"
 
 ## 🏗️ Architecture
 
