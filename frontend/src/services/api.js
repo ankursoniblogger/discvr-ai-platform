@@ -5,7 +5,7 @@
  * and base-URL logic live in one place.
  */
 
-const API_BASE = "/api"; // proxied to backend via vite.config.js
+const API_BASE = "https://discvr-ai-backend.onrender.com/api";
 
 /**
  * Fetch all products, optionally filtered by category or keyword.
